@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Alves</h1>
+
+<p align="center">I'm Electrical engineering student. Passionate about technology and lover of code.</p>
+
+<summary>
+</summary>
 
 <!--
 **matheralvs/matheralvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
