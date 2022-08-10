@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Alves</h1>
 
 <p align="center">I'm Electrical engineering student. Passionate about technology and lover of <b>code</b> :heart:.</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=matheralvs&color=7844e9" alt="Profile views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=matheralvs&color=7844e9&style=flat-square" alt="Profile views" /> </p>
 
 #### I’m currently learning:
 
