@@ -7,28 +7,30 @@
 
 - **Front-End:**
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%237844E9.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%237844E9.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-%237844E9.svg?style=for-the-badge&logo=SASS&logoColor=white)<br>
+![JavaScript](https://img.shields.io/badge/javascript-%237844E9.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffff)
+![React](https://img.shields.io/badge/react-%237844E9.svg?style=for-the-badge&logo=react&logoColor=%23ffffff)
 
 - **Back-End**
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-7844E9?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%237844E9.svg?style=for-the-badge&logo=mongodb&logoColor=white)<br>
+![Python](https://img.shields.io/badge/python-7844E9?style=for-the-badge&logo=python&logoColor=white)
 
 #### Do you have any experience with:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%237844E9.svg?style=for-the-badge&logo=latex&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%237844E9.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <h4 align="center">How to reach me:</h4>
 <p align="center">
   <a href="https://www.instagram.com/mather.alvs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" title="Instagram"></a>
   <a href="https://www.facebook.com/mather.alvs/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"></a>
   <a href="https://www.linkedin.com/in/matheus-alves-076074249/" target="_blank" title="Linkedin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin"></a>
-  <a href="#"target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/mtalves%235538-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" title="Gmail"></a>
+ </p>
 
 <!--
 **matheralvs/matheralvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
