@@ -19,6 +19,15 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%237844E9.svg?style=for-the-badge&logo=mongodb&logoColor=white)<br>
 ![Python](https://img.shields.io/badge/python-7844E9?style=for-the-badge&logo=python&logoColor=white)
 
+**Tools:**
+
+![GitHub](https://img.shields.io/badge/github-%237844E9.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%237844E9.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-7844E9.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
+![Figma](https://img.shields.io/badge/figma-%237844E9.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-7844E9?style=for-the-badge&logo=Adobe%20XD&logoColor=white)<br>
+![Arduino](https://img.shields.io/badge/-Arduino-7844E9?style=for-the-badge&logo=Arduino&logoColor=white)
+
 #### Do you have any experience with:
 ![LaTeX](https://img.shields.io/badge/latex-%237844E9.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%237844E9.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
