@@ -12,6 +12,8 @@
 ![SASS](https://img.shields.io/badge/SASS-%237844E9.svg?style=for-the-badge&logo=SASS&logoColor=white)<br>
 ![JavaScript](https://img.shields.io/badge/javascript-%237844E9.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffff)
 ![React](https://img.shields.io/badge/react-%237844E9.svg?style=for-the-badge&logo=react&logoColor=%23ffffff)
+![Styled Components](https://img.shields.io/badge/styled--components-7844E9?style=for-the-badge&logo=styled-components&logoColor=white)
+
 
 - **Back-End**
 
