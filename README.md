@@ -34,7 +34,7 @@
 <p align="center">
   <a href="https://www.instagram.com/mather.alvs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" title="Instagram"></a>
   <a href="https://www.facebook.com/mather.alvs/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"></a>
-  <a href="https://www.linkedin.com/in/matheus-alves-076074249/" target="_blank" title="Linkedin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin"></a><br/>
+  <a href="https://www.linkedin.com/in/matheralvs/" target="_blank" title="Linkedin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin"></a><br/>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/mtalves%235538-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" title="Discord"></a>
  </p>
