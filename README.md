@@ -17,6 +17,8 @@
   &nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/next.js/e1e1e1" />
   &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/flutter/" />
+  &nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/styledcomponents" />
   &nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
