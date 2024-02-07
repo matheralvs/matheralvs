@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Alves</h1>
 
-<p align="center">Front-end Developer and a JavaScript enthusiast 💜</p>
+<p align="center">Software Developer and a JavaScript enthusiast 💜</p>
 
 <br>
 
