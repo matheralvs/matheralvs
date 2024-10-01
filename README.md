@@ -2,32 +2,6 @@
 
 <p align="center">Software Developer and a JavaScript enthusiast 💜</p>
 
-<br>
-
-<div align="center">
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/" />
-  &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/" />
-  &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/" />
-  &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/react/" />
-  &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/next.js/e1e1e1" />
-  &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/flutter/" />
-  &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/styledcomponents" />
-  &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
-  &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/node.js" />
-  &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-</div>
-
-<br>
-
 <h4 align="center">How to reach me:</h4>
 <p align="center">
   <a href="https://www.instagram.com/mather.alvs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" title="Instagram"></a>
